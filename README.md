@@ -17,10 +17,7 @@ I'm always eager to expand my skill set and explore new technologies. Currently,
 
 ## 💬 Let's Connect!
 
-I'm always open to collaborating on interesting projects or discussing tech topics. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammed-shamil-nk) !
-
-## 📫 Get in Touch
-
+I'm always open to collaborating on interesting projects or discussing tech topics. Feel free to reach out to me on
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammed-shamil-nk)
 - Email: shamilnk91@gmail.com
 
